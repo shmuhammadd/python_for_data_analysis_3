@@ -7,5 +7,5 @@ published by O'Reilly Media
 
 | chapter  | recording |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Chapter 1: Preliminaries  | [Recording](https://www.youtube.com/watch?v=aJOEUBnf0RY)   |
+| Chapter 2: Python Basics, Ipthon and JupyterNotebooks :  | [Recording] (https://www.youtube.com/channel/UCcwTXA7MKv_Y-6RzIFs9bHg)  |
