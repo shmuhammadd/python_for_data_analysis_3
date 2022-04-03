@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"name": "python-machine-learning",
+		"path": "../../MLDS/python-machine-learning"
+	}
+],
+  "settings": {}
+}
